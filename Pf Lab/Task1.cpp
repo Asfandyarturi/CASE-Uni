@@ -2,7 +2,11 @@
 using namespace std;
 int main()
 {
-cout<<"MONEY MONEY";
-
-    return 0;
+    int i=1;
+while(i<=10)
+{
+cout<<i<<endl;
+i++;
+}
+return 0;
 }

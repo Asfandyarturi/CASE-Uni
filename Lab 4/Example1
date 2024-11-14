@@ -1,0 +1,17 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+    int a;
+    cout<<"Enter value of A = ";
+    cin>>a;
+    
+    string result;
+    result=a%2==0? "Even":"Odd";
+    cout<<"The Value of A is = "<<result;
+   
+   
+    return 0;
+       
+
+}

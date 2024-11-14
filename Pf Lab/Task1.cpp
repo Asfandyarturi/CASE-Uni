@@ -1,11 +1,8 @@
 #include<iostream>
 using namespace std;
-
 int main()
 {
-
-
-cout<<"CASE";
+cout<<"MONEY MONEY";
 
     return 0;
 }
